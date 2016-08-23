@@ -1,0 +1,9 @@
+# Copyright 2015 Spiideo AB
+
+# Gradle
+build/
+.gradle
+
+# IDEA
+.idea/
+*.iml
